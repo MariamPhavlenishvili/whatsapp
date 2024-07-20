@@ -31,10 +31,9 @@ I used next technologies in this project:
 
 To get started with this project, you'll need to have the following installed on your local device:
 
-- **[Node.js](https://nodejs.org/en/download/)**: Follow this link for installation instructions and download options.
-- **[Docker](https://docs.docker.com/get-docker/)**: Use this link to install Docker on your system.
+- **[Docker Desktop](https://docs.docker.com/get-docker/)**: Use this link to install Docker Desktop on your system.
 
-Make sure both Node.js and Docker are installed and properly configured before proceeding with the project setup.
+Make sure Docker Desktop is installed and properly configured before proceeding with the project setup.
 
 
 ### Installation
