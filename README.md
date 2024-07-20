@@ -2,9 +2,6 @@
 
 This project is simple live messaging platform clone which uses mock data for authorization (Users who exist is in mock data: mariam, alice, bob) and messaging history. Logged user can search user in chat (if user is not found all previous chats are displayed) and start live messaging. There is registration with name and email validations too.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 ### Built With
 
@@ -18,10 +15,6 @@ I used next technologies in this project:
 * [![Tailwind CSS][Tailwind CSS]][Tailwind CSS-url]
 * [![Express.js][Express.js]][Express.js-url]
 * [![Docker][Docker]][Docker-url]
-
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -56,9 +49,6 @@ Git clone project from this repository and open up docker desktop
     ```sh
     docker compose down
     ```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
